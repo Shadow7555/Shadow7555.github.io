@@ -11,4 +11,4 @@ My personal portfolio, built with HTML and CSS as part of learning web developme
 HTML5, CSS3 (Flexbox), Font Awesome, Google Fonts
 
 ## Live site
-https://username.github.io/portfolio-website
+https://Shadow7555.github.io/portfolio-website
